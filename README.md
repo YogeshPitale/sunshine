@@ -1,2 +1,4 @@
 # sunshine
-This is my read me file.
+This is Yogesh.
+
+I am learning to build an android appliaction. Let's see how it goes ;)
